@@ -1,0 +1,17 @@
+[general]
+scenario: ner
+
+[ner]
+project: ner
+model_name: ner_1
+we_model: we_ner_2
+we_dir: word-embedding/model
+training_data: ./data/${project}/data.json
+testing_data: ./data/${project}/test.json
+x_train_out: ./features/${project}/x_train.json
+y_train_out: ./features/${project}/y_train.json
+x_test_out: ./features/${project}/x_test.json
+y_test_out: ./features/${project}/y_test.json
+context: False
+pos: True
+wordshape: False
