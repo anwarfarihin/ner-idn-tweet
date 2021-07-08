@@ -1,0 +1,9 @@
+﻿Subject,ProjectTopic,Hashtags,Keywords
+general,ner_entertainment,[],"[""netflix"", ""spotify"", ""youtube"", ""socmed""]"
+general,ner_olahraga,[],"[""catur"", ""bola"", ""esport"", ""tenis"", ""futsal"", ""badminton"", ""basket"", ""renang"" ]"
+general,ner_kesehatan,[],"[""covid"", ""vaksin"", ""rokok"", ""sakit"", ""protokol"",  ""masker""]"
+general,ner_bencanaalam,[],"[""banjir"", ""gempa"", ""longsor"", ""kebakaran""]"
+general,ner_investasi,[],"[""investasi saham"", ""portofolio reksadana"", ""inves reksa"",""inves saham""]"
+general,ner_internet,[],"[""kuota"", ""isp"",""provider"", ""wifi"", ""indihome"", ""firstmedia"", ""online""]"
+general,ner_pendidikan,[],"[""pjj"", ""umptn"", ""ujian"", ""ukt"", ""spp"", ""bimbel"", ""kuliah"", ""kelas"","" skripsi"", ""tugas""]"
+general,ner_ecommerce,[],"[""gojek"", ""grab"", ""tokopedia"", ""tokped"", ""traveloka"", ""trave"", ""shopee""]"
