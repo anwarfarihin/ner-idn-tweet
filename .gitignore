@@ -135,3 +135,6 @@ bertenv/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+Model/NER_twitter_Valdi/rework_valdi.ipynb
+Model/NER_twitter_Valdi/ner/data/ner/data.json
+Model/NER_twitter_Valdi/ner/data/ner/data.json

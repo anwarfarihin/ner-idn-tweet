@@ -1,0 +1,6 @@
+torch==1.8.1+cu111
+gensim==4.0.1
+keras_nightly==2.5.0.dev2021032900
+numpy==1.19.5
+keras==2.4.3
+overrides==6.1.0
