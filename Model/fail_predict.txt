@@ -1,0 +1,938 @@
+['@ShopeeID', 'Bismillah', 'yok', 'menang', '����', 'SHOPEE', '@ShopeeID', '#44ShopeeMamamoo', '#ShopeexMAMAMOO', '#AdaMamamoodiShopee']
+10
+['O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O']
+10
+['O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O']
+9
+
+['@cheonsaning', 'halo', 'kak', 'aku', 'jual', 'youtube', 'premium', '1', 'bulan', ':', '8,OOO', '2', 'bulan', ':', '13,OOO', 'sudah', 'dijamin', 'trusted', 'bisa', 'liat', 'testi', 'dipinned', '��', '—', '#zonaba', '#zonauang', 'https://t.co/KdD4d6BaHc']
+27
+['O', 'O', 'O', 'O', 'O', 'B-PROD', 'I-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+27
+['O', 'O', 'O', 'O', 'O', 'B-PROD', 'I-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+26
+
+['@Yanua02', '@BatuKepla', '@Karsono12732862', '@Andreas50772732', '@AndreMa32495641', '@victorpangkey', '@andriskhas', '@AbyManyuu', '@lizaariani5', '@Nana_Rosaa', '_', '@dwi2dh25', '@BaswirOb', '@Bang__Mus', '@745L023N6', '@Rijani54531379', '@Dewi52502425', '@Celes_being1074', '@Yatimpi97149270', '@begoeloh', '@FEMYLIA_K', '@FKARIN3', '@PRINCESLAMPIR', '@aewin86', '@Elina_Vay', '@amandagempita', '@CynthiaEllenna', '@dchyntiabella', '@Permata_Dewi06', '@Dewianggra91', '@Dewi37492961', '@Putri_Sulita', '@tasya_aa77', '@bunga_lao', '@Rismaliez85', '@SonyaAmriani', '@gituLok', '@hennyindah1404', '@WiwidNurwidaya1', '@OniMeniq74', '@maita_omerta', '@Ek4_Puspita', '@Mahrus30127858', '@Zoer_Riya', '@Reny_soepomo', '@BersamaSahabat4', '@jokowi', '@KPK_RI', '@PerekonomianRI', '@airlangga_hrt', '@KemenkeuRI', 'Infrastruktur', 'adalah', 'fondasi', 'bagi', 'rumah', 'indah', 'Indonesia', 'yg', 'aka', 'dibangun', 'di', 'era', 'pasca', 'Jokowi', 'Jokowi', 'yg', 'bangun', 'fondasi', 'rumahnya', ',', 'lalu', 'Presiden', 'Selanjutnya', '(', 'mungkin', 'Prabowo', ')', 'yg', 'akan', 'membangun', 'bangunan', 'atas', 'rumahnya', 'Terima', 'kasih', 'Jkw', ',', 'mari', 'kita', 'dukung', 'Jkw', 'membangun', 'fondasi', 'rumah', 'Ind']
+96
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'B-LOC']
+96
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+38
+
+['@jntexpressid', 'Pengen', 'banget', 'kirimin', '@Malanu99', 'Mukenah', 'dan', 'sajadah', ',', 'apalagi', 'bentar', 'lagi', 'kan', 'Ramadhan', '��', 'Bunga', 'dipetik', 'taruh', 'dalam', 'tas', 'Dibawa', 'pulang', 'diikat', 'tali', 'Ekspedisi', 'pengiriman', 'terbaik', '&', 'amp', 'berkualitas', 'Cuma', '@jntexpressid', 'the', 'one', 'and', 'only', '#TemanSuper', '#JNTsuper', 'https://t.co/9f0ydBmqv8']
+39
+['O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+39
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+38
+
+['@ShopeeID', 'Bismillah', 'yok', 'menang', '����', 'SHOPEE', '@ShopeeID', '#44ShopeeMamamoo', '#ShopeexMAMAMOO', '#AdaMamamoodiShopee']
+10
+['O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-EV', 'O', 'O']
+10
+['O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O']
+9
+
+['@aerwhiteu23', '@ShopeeID', '��', '{', 'Last', 'day', '}', 'SEMANGAT', '!', '��', 'Special', 'thanks', 'to', 'admin', 'dgn', 'kode', '^', 'WR', 'EX', ',', 'AQ', ',', 'WW', ',', 'DF', ',', 'GI', ',', 'ZW', ',', 'SW', ',', 'KH', '❤', 'yg', 'udh', 'selalu', 'nyemangatin', 'tiap', 'hari', '~', 'SHOPEE', '#ShopeeIkatanCinta', '#44ShopeeMamamoo', 'SHOPEE', '#ShopeeIkatanCinta', '#44ShopeeMamamoo', '}']
+48
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'B-PER', 'O', 'B-PER', 'O', 'B-PER', 'O', 'B-PER', 'O', 'B-PER', 'O', 'B-PER', 'O', 'B-PER', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+48
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+46
+
+['@satriolola', '@rmol_id', 'Hutang', 'dana', 'pemulihan', 'ekonomi', 'nasional', '12,5T', 'dipakai', 'untuk', 'bangun', 'stadion', 'janji', 'kampanye', 'sebesar', '3.646M', '.', 'Dari', 'segitu', '1', 'Trilyun', 'lebih', 'untuk', 'bangun', 'atap', 'stadion', 'yang', 'bahannya', 'impor', 'baja', 'dari', 'Cina', '.', 'Kalau', 'seperti', 'ini', 'anda', 'pilih', 'RI', '1,', 'ramalan', 'prabowo', '2030', 'Indonesia', 'bubar', 'jadi', 'nyata', '"', '@satriolola', '@rmol_id', 'Hutang', 'dana', 'pemulihan', 'ekonomi', 'nasional', '12,5T', 'dipakai', 'untuk', 'bangun', 'stadion', 'janji', 'kampanye', 'sebesar', '3.646M', '.', 'Dari', 'segitu', '1', 'Trilyun', 'lebih', 'untuk', 'bangun', 'atap', 'stadion', 'yang', 'bahannya', 'impor', 'baja', 'dari', 'Cina', '.', 'Kalau', 'seperti', 'ini', 'anda', 'pilih', 'RI', '1,', 'ramalan', 'prabowo', '2030', 'Indonesia', 'bubar', 'jadi', 'nyata', '"']
+96
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'I-PER', 'O', 'B-PER', 'O', 'B-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'B-ORG', 'O', 'O', 'O', 'O']
+96
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O']
+94
+
+['@ninidarm', 'Hello', 'kak', ',', 'rekomen', 'beli', 'app', 'premium', 'di', '@etherealxca', '✨', '��Legal', '��aman', '��bergaransi', '��Order', 'dm', 'or', 'wa', '��', 'BCA', ',', 'GOPAY', ',', 'DANA', ',', 'SHOPPEPAY', 't', '.', 'jual', 'butuh', 'beli', 'yg', 'yang', 'mau', 'netflix', 'spotify', 'antihold', 'viu', 'youtube', 'music', 'wtb', 'wts', 'disney', '+', 'hotstar', 'wetv', 'canva', 'iqiyi', 'hbo', 'go', 'jual', 'app', 'premium', 'https://t.co/mz665GHhqw']
+54
+['B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'B-PROD', 'I-PROD', 'B-PROD', 'B-PROD', 'I-PROD', 'O', 'O', 'B-PROD', 'O', 'I-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'I-PROD', 'O', 'O', 'O', 'O']
+54
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'B-PROD', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'B-PROD', 'O', 'B-PROD', 'B-PROD', 'B-PROD', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'O', 'O', 'O', 'O']
+53
+
+['@ShopeeID', 'Bismillah', 'coba', 'aja', 'dulu', 'semoga', 'rejeki', 'saya', 'SHOPEE', '#44ShopeeMamamoo', '#ShopeexMamamoo', '#AdaMamamoodiShopee', '��']
+13
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O']
+13
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O']
+12
+
+['@jualanengene', 'yuk', 'sini', 'kita', 'pakai', 'dhl', 'OPEN', 'PO', 'ALBUM', 'ENHYPEN', 'BORDER', ':', 'CARNIVAL', '��WEVERSE', '&', 'amp', 'ALLADIN��', '��1.130.000/set', 'Dp', '.', '600k', '��', '380k/ea', 'Dp', '.', '200k', '✅', 'benefit', '✅', 'pilih', 'versi', '✅', 'EST', '800gr', '✅', 'DHL', 'tax', '✅', 'GO', 'LINE', '��', 'BCA/shopee/dana', '��', 'Jogja', 'https://t.co/INskZLk3aH']
+45
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ORG', 'B-WA', 'I-WA', 'I-WA', 'B-PROD', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-LOC', 'O']
+45
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+42
+
+['Puasa', 'hari', 'pertama', ',', 'shooting', 'untuk', 'konten', 'Cafe', '0', 'Kilometer', 'di', '0', 'Km', 'Jogja', '.', 'Director', 'pak', 'Hary', 'Sutradara', 'mas', 'Andrew', 'Bareng', 'mba', 'Nuning', 'Chicilia', ',', 'mba', 'Ira', 'Haryanto', '.', 'Sesekali', 'colongan', 'motret²', '��', 'Kita', 'tunggu', 'video', 'hasil', 'shooting', 'hari', 'ini', 'yaaa', '.', 'Smoga', 'lancar', 'puasanya', '��', 'https://t.co/2AoBqtJKUQ', '"', 'Puasa', 'hari', 'pertama', ',', 'shooting', 'untuk', 'konten', 'Cafe', '0', 'Kilometer', 'di', '0', 'Km', 'Jogja', '.', 'Director', 'pak', 'Hary', 'Sutradara', 'mas', 'Andrew', 'Bareng', 'mba', 'Nuning', 'Chicilia', ',', 'mba', 'Ira', 'Haryanto', '.', 'Sesekali', 'colongan', 'motret²', '��', 'Kita', 'tunggu', 'video', 'hasil', 'shooting', 'hari', 'ini', 'yaaa', '.', 'Smoga', 'lancar', 'puasanya', '��', 'https://t.co/2AoBqtJKUQ', '"']
+98
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'I-LOC', 'I-LOC', 'O', 'B-LOC', 'I-LOC', 'I-LOC', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'B-PER', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ORG', 'I-ORG', 'I-ORG', 'O', 'B-LOC', 'I-LOC', 'I-LOC', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'B-PER', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+98
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'I-LOC', 'I-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'O', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'I-LOC', 'I-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'O', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+94
+
+['Mobil-mobil', 'ga', 'punya', 'harga', 'diri', 'banget', 'ya', '������������', 'https://t.co/XljR7vyGXS', '"', 'Mobil-mobil', 'ga', 'punya', 'harga', 'diri', 'banget', 'ya', '������������', 'https://t.co/XljR7vyGXS', '"']
+20
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+20
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+18
+
+['RT', '@MayaWrynda', ':', 'Ready', 'open', 'bo/vcs', 'area', 'Jogja', '��', 'WA', '.', '0878-2950-1353', '#jogjacrot', '#jogjaopenBO', '#jogjaincluderoom', '#bispakjogja', '#bisyarjogja', '#bojogja', '#AvailJogja', '#readyjogja', '#openBOjogja', '#openjogja', '#ExpoJOGJA', '#includeJogja', '#WPjogja', '#JogjaBO', '#vcstrusted', '#lendirjogja', '#vcsbugilk', 'https://t.co/YZkIiUrx8y']
+30
+['O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+30
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+29
+
+['@ShopeeID', 'Semoga', 'beruntung', ',', 'rezeki', ',', '&', 'amp', 'menang', '����������', 'Semangaaat', '������', 'Beli', 'gula', 'dan', 'tepung', 'pati', 'Belinya', 'di', 'Pasar', 'Tiku', 'Mimin', 'Shopee', 'yang', 'baik', 'hati', 'Tolong', 'banget', 'pilih', 'aku', '������⚘❤', '#BAGIBAGIIPHONE11', '#RAMADANHPBARU', '#GIVEAWAYHARIMINGGU', '⭐����', '"', '@ShopeeID', 'Semoga', 'beruntung', ',', 'rezeki', ',', '&', 'amp', 'menang', '����������', 'Semangaaat', '������', 'Beli', 'gula', 'dan', 'tepung', 'pati', 'Belinya', 'di', 'Pasar', 'Tiku', 'Mimin', 'Shopee', 'yang', 'baik', 'hati', 'Tolong', 'banget', 'pilih', 'aku', '������⚘❤', '#BAGIBAGIIPHONE11', '#RAMADANHPBARU', '#GIVEAWAYHARIMINGGU', '⭐����', '1173"']
+72
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'I-LOC', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'I-LOC', 'B-PER', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+72
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'I-LOC', 'I-LOC', 'I-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'I-LOC', 'I-LOC', 'I-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O']
+68
+
+['Sedih', 'gak', 'seh', 'kalau', 'banyak', 'bacot', 'di', 'twitter', 'tapi', 'pembuktiannya', 'tidak', 'ada', '����', 'Followers', 'gw', 'yg', 'sedikit', 'ini', 'tau', 'gw', 'seperti', 'apa', '.', 'Basically', 'no', 'one', 'gives', 'a', 'fuck', 'about', 'you', 'seh.hahaha']
+32
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+32
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+31
+
+['@gabyJKT48', 'Takjil', '��', 'Enak', 'dimakan']
+5
+['O', 'O', 'O', 'O', 'O']
+5
+['O', 'O', 'O', 'O']
+4
+
+['@recehtapisayng', 'Haii', 'kak', 'izin', 'nitip', 'jualan', 'yaa', '~', 'Aku', 'jual', 'Konektor', 'Masker', 'aesthetic', 'nih', 'dari', 'Macrame', 'Warna', 'pastelnya', 'cantikk', ',', 'hiasannya', 'unikk', 'Bisa', 'request', 'modelnya', 'jugaa', 'Yukk', 'kepoin', 'start', 'from', '8k', 'ajaaa', '��', 'https://t.co/XeY2syFmPV', 'https://t.co/fiqigmMCpV']
+35
+['B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+35
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+34
+
+['@tokopedia', 'YA', 'KALI', 'NGGAK', 'KUY', '#TokopediaxTHEBOYZ', 'YA', 'KALI', 'NGGAK', 'KUY', '#TokopediaxTHEBOYZ', 'YA', 'KALI', 'NGGAK', 'KUY', '#TokopediaxTHEBOYZ', 'YA', 'KALI', 'NGGAK', 'KUY', '#TokopediaxTHEBOYZ', 'YA', 'KALI', 'NGGAK', 'KUY', '#TokopediaxTHEBOYZ', 'YA', 'KALI', 'NGGAK', 'KUY', '#TokopediaxTHEBOYZ', '����', '"', '@tokopedia', 'YA', 'KALI', 'NGGAK', 'KUY', '#TokopediaxTHEBOYZ', 'YA', 'KALI', 'NGGAK', 'KUY', '#TokopediaxTHEBOYZ', 'YA', 'KALI', 'NGGAK', 'KUY', '#TokopediaxTHEBOYZ', 'YA', 'KALI', 'NGGAK', 'KUY', '#TokopediaxTHEBOYZ', 'YA', 'KALI', 'NGGAK', 'KUY', '#TokopediaxTHEBOYZ', 'YA', 'KALI', 'NGGAK', 'KUY', '#TokopediaxTHEBOYZ', '����', '1.476"']
+66
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+66
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+64
+
+['@zaloraidn', 'A', '.', 'FESTIVAL', 'BELANJA', 'ONLINE', '#ZALORAnswer', '#ZALORAGiveaway', 'Aku', 'mention', 'biar', 'ikutan', 'juga', 'ya', 'guys', '@kopisuxmaco', '@skuuxzkyy', '@ininama_nana', '����������']
+19
+['O', 'O', 'O', 'B-EV', 'I-EV', 'I-EV', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+19
+['O', 'O', 'O', 'O', 'O', 'I-EV', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+18
+
+['@zaloraidn', 'Jawabannya', ':', 'A', '.', 'FESTIVAL', 'BELANJA', 'ONLINE', '#ZALORAnswer', '#ZALORAGiveaway', '��', 'Yuk', 'Follow', '@zaloraidn', '&', 'amp', 'ikutan', 'Giveaway', 'Berkah', 'Ramadhan', '..', '@Syamarif85', '@ghufronfanani27', '@SulliFeriansyah', 'https://t.co/b93IZyhFjL']
+25
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+25
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+24
+
+['@bucinnpsikologi', 'Haloo', 'kak', '@jolochyshop', 'sedia', 'banyak', 'apps', 'prem', 'harga', 'start', 'dari', '10k', 'aja', 'loh', '!', '&', 'gt;.&lt', 'checkout', 'yuuuuk', 'dijamin', ':', '��Murahh', '��Legal', '��Trusted', '��Full', 'garansi', 'pastinya', 'Ramah', 'banget', 'juga', '!', '��', 'dijamin', 'fastrep��', '��Netflix,Canva,Viu,Iflix,Youtube,Spotify', ',', 'HBO', ',', 'Disney', '+', 'https://t.co/XQL7BvAPx0']
+41
+['O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O']
+41
+['O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'O']
+40
+
+['@Panggilvee', 'Mending', 'kamu', 'mati', 'aja', 'sekarang', ',', 'punya', 'cewe', 'sakitnya', 'begitu', ',', '��', 'Aku', 'gpp', 'dimaki', 'tapi', 'jangan', 'sakitku', ',', 'aku', 'juga', 'gamau', 'sakit', 'bgini', '��', 'Doain', 'ya', 'teman2', 'supaya', 'aku', 'cepat', 'sembuh']
+33
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+33
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+31
+
+['@tokopedia', '"', '"Tokopedia', 'PLAY"', '"', '"', '"Ngabuburit', 'Sama', 'Chandra', 'Liow', 'Serba', '20Rb"', '"', 'Yuk', ',', 'nonton', 'siaran', 'dari', 'Chandra', 'Liow', 'di', '@tokopedia', 'PLAY', '!', 'Bakal', 'seru', 'banget', 'lho', '!', 'https://t.co/8gqY6gFMgL', '#JumatUntung', '#Cuma20ribu', '��']
+33
+['O', 'O', 'B-PROD', 'I-PROD', 'O', 'O', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'I-PER', 'O', 'B-PROD', 'I-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+33
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'I-PER', 'O', 'B-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+32
+
+['@zaloraidn', 'A', '.', 'FESTIVAL', 'BELANJA', 'ONLINE', '#ZALORAnswer', '#ZALORAGiveaway', 'Aku', 'mention', 'biar', 'ikutan', 'juga', 'ya', 'guys', '@kopisuxmaco', '@skuuxzkyy', '@ininama_nana', '����������']
+19
+['B-ORG', 'O', 'O', 'B-EV', 'I-EV', 'I-EV', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'B-PER', 'B-PER', 'O']
+19
+['O', 'O', 'O', 'O', 'O', 'I-EV', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+18
+
+['Nahan', 'ketawa', 'sambil', 'makan', 'rasanya', 'sakit', 'bgt', '��', 'hearing', 'a', 'homophobic', 'phrase', 'from', 'a', 'gay', 'person', 'is', 'just', 'hilarious', '.', 'KLO', 'DI', 'CERITAIN', 'KAYA', 'GINI', 'JADI', 'GALUCU', ',', 'coba', 'ada', 'di', 'TKP', 'langsung', ',', 'bengek', 'banget']
+36
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+36
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O']
+35
+
+['finals', 'in', '4', 'years', '2018', ':', 'piala', 'presiden', '��', '2019', ':', 'piala', 'Indonesia', '��', '2020', ':', 'piala', 'gub', 'jatim', '��', '2021', ':', 'piala', 'menpora']
+24
+['O', 'O', 'O', 'O', 'O', 'O', 'B-EV', 'I-EV', 'O', 'O', 'O', 'B-EV', 'I-EV', 'O', 'O', 'O', 'B-EV', 'I-EV', 'I-EV', 'O', 'O', 'O', 'B-EV', 'I-EV']
+24
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'I-EV', 'O', 'O', 'I-EV', 'I-EV', 'O', 'O', 'O', 'I-EV', 'I-EV', 'O', 'O', 'O']
+21
+
+['Temen2', 'kalau', 'nggak', 'keberatan', 'boleh', 'minta', 'tolong', 'buat', 'follow', 'akun', 'olshopku', 'ini', 'nggak', 'huhu', 'buat', 'tugas', 'kuliah', '������', 'terimakasih', 'sebelumnya', '������', "I'm", 'on', 'Instagram', 'as', '@getyourbiaz', '.', 'Install', 'the', 'app', 'to', 'follow', 'my', 'photos', 'and', 'videos', '.', 'https://t.co/tO6kbNnkb9']
+38
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+38
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+36
+
+['@Samosir2595', '@5ecretNumber', 'https://t.co/pvkkS06IFa', 'hai', 'lockey', '!', '��', 'Bantuin', 'aku', 'ya', 'hyung', 'untuk', 'like', ',', 'coment', 'and', 'subscribe', 'ya', '.', 'Dukungan', 'kalian', 'semua', 'sangat', 'berguna', 'utk', 'nilai', 'tugas', 'kami', '.', 'Trimakasih', 'orang-orang', 'baik']
+32
+['O', 'O', 'O', 'O', 'B-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+32
+['O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+31
+
+['Lowongan', 'Kerja', 'PT', 'Swakarya', 'Insan', 'Mandiri', 'Info', 'Lengkap', 'dan', 'Pendaftaran', ':', 'https://t.co/rIX9BBN6AI', 'Batas', 'Lamaran', ':', '27', 'April', '2021', '•', 'Gabung', 'di', 'Telegram', 'kami', 'di', '��', 'https://t.co/SfaaWgxZ1h', '(', 'GRATIS']
+28
+['O', 'O', 'B-ORG', 'I-ORG', 'I-ORG', 'I-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O']
+28
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O']
+27
+
+['Vaksin', 'merah', 'putih', 'dan', 'bikin', 'imun', 'selalu', 'stabil', '.', 'Gak', 'usah', 'pakai', 'uji', 'lab', 'segala', ',', 'dijamin', '99,9%', 'paten', '.', '��', 'https://t.co/L0wRLWYZJF']
+22
+['B-PROD', 'I-PROD', 'I-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+22
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+21
+
+['@maetamong', 'haloooo', 'lagi', 'butuh', 'jasa', 'tugas', '?', 'yuk', 'langsung', 'cek', 'akunnya', '@Ephemrals', '��', 'udah', 'banyaaak', 'banget', 'testinya', 'loh✨']
+18
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O']
+18
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O']
+17
+
+['@buknnadinamizah', 'halo', 'kak—', '!', 'aku', 'jual', 'NETFLIX', ',', 'trusted', ',', 'proses', 'cepet', ',', 'legal', 'yaa', '.', 'kalo', 'cocok', 'sama', 'harga', ',', 'bisa', 'ketuk', 'dm', 'ku', 'ya', 'kakk��', 'https://t.co/5P8JPqdYsM', 'payment', ':', 'dana', ',', 'spay', ',', 'gopay', ',', 'ovo', ',', 'qris', ',', 'pulsa', ',', 'bank', '.', 'https://t.co/fP2fsE6XIA', '"', '@buknnadinamizah', 'halo', 'kak—', '!', 'aku', 'jual', 'NETFLIX', ',', 'trusted', ',', 'proses', 'cepet', ',', 'legal', 'yaa', '.', 'kalo', 'cocok', 'sama', 'harga', ',', 'bisa', 'ketuk', 'dm', 'ku', 'ya', 'kakk��', 'https://t.co/5P8JPqdYsM', 'payment', ':', 'dana', ',', 'spay', ',', 'gopay', ',', 'ovo', ',', 'qris', ',', 'pulsa', ',', 'bank', '.', 'https://t.co/fP2fsE6XIA', '"']
+92
+['B-PER', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+92
+['O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+75
+
+['@RaisaTjokrodnta', '@PutraWadapi', 'yg', 'jelas', 'megawati', 'ama', 'emak', 'tirinya', 'yg', 'jepang', 'bedal', 'fisik', '������', 'cantikan', 'emak', 'tirinya', 'ampe', 'skarang']
+18
+['O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+18
+['O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+17
+
+['@basetoko', 'Hai', 'kak', '!', 'Aku', 'jual', 'akun', 'premium', 'murah', 'nih', ',', 'cari', 'akun', 'premium', 'lain', '?', 'Dm', 'aja', 'ya', '.', 't', '.', 'Aku', 'jual', 'beli', 'netflix', 'premium', 'murah', 'spotify', 'Youtube', 'music', 'Canva', 'Deezer', 'smallpdf', 'Viu', 'Hootsuite', 'prezi', 'hbo', 'go', 'wetv', 'skillshare', 'blinkist', 'grammarly', 'iflix', 'Shudder', '��', 'dana', ',', 'ovo', ',', 'spay', ',', 'gopay', ',', 'jenius', '&', 'amp', 'qris', 'https://t.co/ok2AbMqv44']
+59
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'I-PROD', 'O', 'B-PROD', 'B-PROD', 'I-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'B-PROD', 'O']
+59
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'O', 'B-PROD', 'B-PROD', 'O', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'B-PROD', 'O']
+58
+
+['@forhaechan_care', 'Kemaren', 'udah', 'rencana', 'mau', 'beli', 'anting', 'modelannya', 'kek', 'gini', 'Ehhh', 'udah', 'keburu', 'di', 'pakek', 'haechan', 'duluan', '����', 'Takut', 'sold', 'out', 'wkwk']
+22
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O']
+22
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+21
+
+['@KiiP_Indonesia', '@baseusid', 'Takjil', 'favorit', 'is', 'Es', 'Degan', '��', '#PakeBaseusAja', '#KiiPItSimple', '"', '@KiiP_Indonesia', '@baseusid', 'Takjil', 'favorit', 'is', 'Es', 'Degan', '��', '#PakeBaseusAja', '#KiiPItSimple', '230"']
+22
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+22
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O']
+20
+
+['Time', 'flies', '.', 'A', 'year', 'ago', '"', '"Taklimat', 'Ketua', 'Umum', 'Partai', 'Gerindra', 'Bapak', 'H', '.', 'Prabowo', 'Subianto', '@prabowo', 'ke', 'Seluruh', 'Relawan', 'dan', 'Kader', '@Gerindra', '@Fraksi_Gerindra', 'di', 'Seluruh', 'Indonesia', 'Bersatu', 'Lawan', 'Covid19', ',', 'Gotong', 'Royong', ',', 'Kuat', 'Bantu', 'Lemah"', '"', '#PrabowoSubianto', '#Gerindra', '#IndonesiaRaya', '����', 'https://t.co/35HmJsOQzH']
+44
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ORG', 'I-ORG', 'O', 'O', 'O', 'B-PER', 'I-PER', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'B-ORG', 'B-ORG', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+44
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+43
+
+['@KiiP_Indonesia', '@baseusid', 'Takjil', 'favorit', 'is', 'Es', 'Degan', '��', '#PakeBaseusAja', '#KiiPItSimple']
+10
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+10
+['O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O']
+9
+
+['niat', 'hati', 'mau', 'nabung', 'buat', 'kuliah', ',', 'buat', 'beli', 'lb', ',', 'eh', 'ini', 'malah', 'suruh', 'bayar', 'tagihan', 'wifi', '��', 'kerasa', 'buuunn', 'mahalnya']
+22
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+22
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+21
+
+['GEGER', 'MEGAWATI', 'MINTA', 'MENDIKBUD', 'NADIEM', 'LURUSKAN', 'SEJARAH', 'PEMBERONTAKAN', '1965!', 'ROCKY', 'GERUNG', 'Menara', 'Media', 'Official', '������', 'https://t.co/cKPkbp6NOX']
+16
+['O', 'B-PER', 'O', 'O', 'B-PER', 'O', 'B-EV', 'I-EV', 'I-EV', 'B-PER', 'I-PER', 'B-ORG', 'I-ORG', 'I-ORG', 'O', 'O']
+16
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+15
+
+['Liat', 'dia', 'aja', ',', 'biar', 'pikiranku', 'tidak', 'stress', 'gegara', 'tugas+kpopies', 'yg', 'salty', 'mulu', '.', 'Ya', 'kan', 'Yoon', '��', 'https://t.co/eE3bZLcK07']
+19
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O']
+19
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+18
+
+['@mamang_sayur2an', '@ShopeeID', 'Shopee', '#ShopeeRamadanSale', '#SelaluBelanjadiShopee', '#THRDariShopee', 'Semoga', 'kali', 'ini', 'dilirik', 'sama', 'mimin', '@ShopeeID', ':)', '��', '^_^', '796', 'https://t.co/TIWF2L1ltv']
+18
+['O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'O', 'O', 'O']
+18
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O']
+17
+
+['@humbfle', 'Halooo', 'kaa', '!', '��', 'Lagi', 'cari', 'app', 'prem', 'ya', '?', 'Ke', '@RJHC7Y', 'aja', 'yuk', '!', '��', '��', 'Trusted', '��', 'Aman', '��', 'Legal', '��', 'Bergaransi', 'Payment', '��', 'bisa', 'via', 'dana', ',', 'gopay', ',', 'spay', ',', 'ovo', 'juga', 'loh', '!', '(๑˃̵', 'ᴗ', '˂̵)و', ',', 'order', 'gampang', 'dan', 'kaka', 'juga', 'ramah', 'banget', '!', '(', 'ㅅ˙³˙)♡', 'https://t.co/Xd6FvrsC9x']
+54
+['B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+54
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+47
+
+['soju', '+', '@avvkarina', 'baik', 'banget', ',', 'friendly', 'dan', 'gak', 'milih', 'temen', ',', 'asik', 'di', 'ajak', 'bercanda', '.', 'ayo', 'deketan', 'lagi', 'biar', 'lebih', 'kenal', 'satu', 'sama', 'lain', '��', 'https://t.co/jebmTn5yhG']
+28
+['B-PER', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+28
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+27
+
+['@jntexpressid', 'kenapa', 'kamu', 'lambat', 'bgt', 'sih', 'sekarang', '��', 'masa', 'jogja', '-', 'magelang', 'udah', '2', 'hari', 'ngga', 'jalan', 'jalan']
+18
+['B-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O']
+18
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O']
+17
+
+['@ShopeeID', '��', 'GIVEAWAY', 'IPHONE', '12', 'MINI', '��', "'", 'Shopee', '#ShopeeRamadanSale', '#SelaluBelanjadiShopee', '#THRDariShopee', "'", 'Bismillah', 'semoga', 'rejeki', 'saya', '.', '����', 'YOH', 'ISO', 'YOH', '!!!!']
+23
+['B-ORG', 'O', 'O', 'B-PROD', 'I-PROD', 'I-PROD', 'O', 'O', 'B-PROD', 'B-EV', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+23
+['O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+20
+
+['RT', '@_selimutkuning', ':', 'Asupan', 'susu', 'kotak', 'dan', 'kopiku', 'datang', 'semalam', 'bersama', '7', 'mas', 'ganteng', '������', 'dapaaaattt', '!', 'Thank', 'you', 'minto', '@tokopedia', '����', '#TokopediaxBTSPhotoCard', '#TokopediaxBTS', 'https://t.co/hWxYVOrWl2']
+25
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'B-ORG', 'O', 'O', 'O', 'O']
+25
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O']
+23
+
+['@studforlyfe', 'Bisa', 'vipul', 'tsel/isat', ',', 'kena', 'rate', 'yaa', ',', 'kaakk', '.', 'Open', 'yang', '3', 'sama', '6', 'bulan', 'ajaa', '��', 'VIU', '��', '️', '»', '1', 'bulan', '8k', '»️', '3', 'bulan', '12k', '»️', '6', 'bulan', '18k', '»️', '12', 'bulan', '24k', '✅', 'akses', 'episode', 'premium', '✅', 'tanpa', 'iklan', '✅', 'legal', '✅', 'bergaransi', '✅', 'request', 'email', 'wts', 'cari', 'yang', 'jual', 'viu']
+57
+['O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD']
+57
+['O', 'O', 'B-PROD', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD']
+55
+
+['@ddelblue', '@maisimisihehe', '@FOODFESS2', 'yaaaah', ',', 'semoga', 'nanti', 'bisa', 'kirim', 'ke', 'luar', 'jogja', '��', 'ak', 'mau', 'ini', 'lucu', 'bgt', 'sksksksksk']
+19
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+19
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O']
+18
+
+['@sjfly78', 'hahaha', 'iyaaa', 'aaiii', ',', 'april', 'squad', '��', 'amiiiinnnn', 'amiiiiiinnnnnn', '����', 'nanti', 'yaaa', 'next', 'time', 'aku', 'liburan', 'ke', 'jogja', 'sendiri', 'biar', 'bisa', 'kelayapan']
+23
+['O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O']
+23
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O']
+21
+
+['@ShopeeID', '��', 'GIVEAWAY', 'IPHONE', '12', 'MINI', '��', "'", 'Shopee', '#ShopeeRamadanSale', '#SelaluBelanjadiShopee', '#THRDariShopee', "'", 'Bismillah', 'semoga', 'rejeki', 'saya', '.', '����', 'YOH', 'ISO', 'YOH', '!!!!']
+23
+['O', 'O', 'O', 'B-PROD', 'I-PROD', 'I-PROD', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+23
+['O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+20
+
+['RT', '@sbmptnfess', ':', 'PTN', '!', 'Guys', 'besok', 'giliran', 'aku', 'utbk', '��', 'sebenernya', 'aku', 'belum', 'terlalu', 'ngusain', 'tka', ',', 'karena', 'sekarang', 'posisinya', 'aku', 'kerja', 'karena', 'ortu', 'ga', 'dapet', 'penghasilan', 'selama', 'pandem1', ',', 'jadi', 'belajarku', 'ga', 'terlalu', 'maksimal', '.', 'Boleh', 'minta', 'doanyaa', '?', 'Semoga', 'aku', 'dikasih', 'hasil', 'yang', 'terbaik', ',', 'aku', '(', 'cont', 'https://t.co/lHt1jvN78J', '"', 'RT', '@sbmptnfess', ':', 'PTN', '!', 'Guys', 'besok', 'giliran', 'aku', 'utbk', '��', 'sebenernya', 'aku', 'belum', 'terlalu', 'ngusain', 'tka', ',', 'karena', 'sekarang', 'posisinya', 'aku', 'kerja', 'karena', 'ortu', 'ga', 'dapet', 'penghasilan', 'selama', 'pandem1', ',', 'jadi', 'belajarku', 'ga', 'terlalu', 'maksimal', '.', 'Boleh', 'minta', 'doanyaa', '?', 'Semoga', 'aku', 'dikasih', 'hasil', 'yang', 'terbaik', ',', 'aku', '(', 'cont', 'https://t.co/lHt1jvN78J', '"']
+106
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+106
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+87
+
+['@SusantoMulyono2', '������', 'terima', 'kasih', 'pak', 'sdh', 'folbek', '.', 'Tertarik', 'PLTS', ',', 'tapi', 'blm', 'mampu', 'untuk', 'rumahan������������', 'Hrs', 'nabung', 'dulu', ',', 'kyknya.����', '"', '@SusantoMulyono2', '������', 'terima', 'kasih', 'pak', 'sdh', 'folbek', '.', 'Tertarik', 'PLTS', ',', 'tapi', 'blm', 'mampu', 'untuk', 'rumahan������������', 'Hrs', 'nabung', 'dulu', ',', 'kyknya.����', '"']
+44
+['B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+44
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+42
+
+['������������', '������', '��', '��', '@AiissyfaS', '��', '@Aiissyfa8', '��', '@Aiissyfa7', 'Avail', '➟', 'Jogja', 'Expo', '↯', 'Bo/Massage', '0821-3397-6747', '⇹', 'Jakpus', 'Now', '��', 'DM', '/', 'Mention', 'https://t.co/xegQdSqdPe']
+24
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'I-LOC', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O']
+24
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+17
+
+['@EoSxeeR2', 'aloo', 'aku', 'jual', 'kaa', 'sini', 'dm', 'yuk', '!', 'ada', 'wa', 'juga', 'bisa', 'dari', 'aku/kamu', '��', '☁', 'proses', 'cepat', '��', 'testi', '?', 'link', 'di', 'bio', '♡', '��', 'dm', '/', 'https://t.co/VqxzKXPAXF', 't', '.', 'netflix', 'spotify', 'viu', 'apple', 'music', 'youtube', 'disney', '+', 'hotstar', 'hbo', 'go', 'iflix', 'wetv', 'iqiyi', 'canva', 'premium', 'legal', 'https://t.co/o8UFpXRO4W']
+50
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'I-PROD', 'B-PROD', 'B-PROD', 'O', 'I-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'I-PROD', 'O', 'O']
+50
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'I-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'I-PROD', 'O', 'O']
+47
+
+['@ptrgrl', '@collegemenfess', 'Bisa', 'kalo', 'online', ',', 'biasa', 'di', 'lembaga', 'seperti', 'univ2', 'gitu', 'mereka', 'ada', 'yg', 'official', 'hehe', 'Kalo', 'tempatku', 'ga', 'menyediakan', 'tesnya', 'baik', 'official', 'maupun', 'unoff', '��', 'tapi', 'kalo', 'mau', 'belajar', 'dulu', 'bisa', 'ditempatku']
+34
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+34
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+33
+
+['Daechwita', 'mencapai', '100jt', 'streaming', 'di', 'Spotify', '��', 'Yoongi', 'menjadi', 'solois', 'Korea', 'pertama', 'yang', 'memiliki', '4', 'lagu', 'melampaui', '100jt', 'stream', '#Daechwita100MSpotify', '#DaechwitaHits100M', '@BTS_twt']
+22
+['B-WA', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PER', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+22
+['O', 'O', 'O', 'O', 'O', 'B-LOC', 'I-LOC', 'O', 'O', 'B-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+21
+
+['��Jual', 'Kuota', 'Indosat', '50gb', '24jam��', 'Yuk', 'beli', 'kuota', 'murah', 'dulu��', '��Kuota', '50Gb', '24', 'Jam', '��Tidak', 'ada', 'pembagian', 'kuota', '��', 'Lebih', 'murah', 'dari', 'aplikasi', 'Tanya2', 'via', 'Dm/Wa', '����', 'https://t.co/YmwFyGDCY3', '#jualkuota', '#kuotaindosat', '#zonajajan', '#zonauang', '#kuotamurah', 'https://t.co/fyFEpTr6C9']
+34
+['O', 'O', 'B-PROD', 'I-PROD', 'I-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+34
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'I-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+32
+
+['@Lizard7Me', '@ShopeeID', 'Day', 'Ke-5', '27-04-2021,', 'Selasa', 'Sore', 'Sudah', 'mengikuti', 'S&amp;K', '��', '-', 'FOLLOW', '✔', '-', 'LIKE', '✔', '-', 'RT', '✔', '��', 'Shopee', '#ShopeeRamadanSale', '#SelaluBelanjadiShopee', '#THRDariShopee']
+25
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O']
+25
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+23
+
+['@ShopeeID', 'Bismillaah', '.', '"', '"Mudah-mudahan', 'beruntung', 'dan', 'congrats', '.', 'Aamiin"', '"', '��', 'Shopee', 'Mantul', '#ShopeePayMantulSaleDay', '#GajianDariShopee', '#Tanggal25IngetShopee', 'Shopee', 'Mantul', '#ShopeePayMantulSaleDay', '#GajianDariShopee', '#Tanggal25IngetShopee']
+22
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-EV', 'I-EV', 'B-EV', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+22
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+21
+
+['@winniedepo0', '@ShopeeID', '[', 'Day', '5]', 'Bismillahirrahmanirrahim', ',', 'semoga', 'ini', 'rezekiku', 'yaAllah', 'Shopee', '#ShopeeRamadanSale', '#SelaluBelanjadiShopee', '#THRDariShopee', 'Shopee', '#ShopeeRamadanSale', '#SelaluBelanjadiShopee', '#THRDariShopee', '������']
+20
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O']
+20
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O']
+19
+
+['@diemsagk', '~', 'JUAL', 'APP', 'PREMIUM', '~', '��', 'legal', '��trusted', '��bergaransi', '��gopay/dana/ovo/shopeepay', '��', 'dm', 'for', 'order', ',', 'no', 'wa', '?', 'dm', 't', '.', 'ada', 'yang', 'jual', 'netflix', 'viu', 'disney', 'hotstar', 'iflix', 'wetv', 'spotify', 'ps', '.', 'ada', 'yang', 'tidak', 'tertera', 'di', 'pl', 'https://t.co/ETfA58k3FF']
+41
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'B-PROD', 'B-PROD', 'I-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+41
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+39
+
+['��Panggilan', 'kepada', 'seluruh', 'pejuang', 'STIS��', 'Kali', 'ini', 'Pateron', 'buka', 'kelas', 'terbatas', 'untuk', 'Sobateron', 'yang', 'pengen', 'masuk', 'STIS', 'nih', '!', 'Udah', 'tau', 'dong', ',', 'keketatan', 'masuk', 'kedinasan', 'itu', 'tinggi', 'banget', 'yang', 'bahkan', 'satu', 'kursi', 'bisa', 'diperebutkan', '100', 'orang', '?', '��', 'Kalo', 'gitu', 'cuss', 'langsung', 'aja', 'cek', 'infonya', '!', 'https://t.co/Nt4QVpfhIQ']
+48
+['O', 'O', 'O', 'O', 'B-ORG', 'O', 'O', 'B-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+48
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+47
+
+['@OvNoctis', 'hi', '@shopremid', 'jual', 'apk', 'prem', 'murah', '!', '—', '✦', 'netshar', '��35k', '/', 'bln', '��15k', '/', '15', 'day', '—', '✦', 'spotify', '��10k', '/', 'bln', '��15k', '/', '2', 'bln', '��20k', '/', '3', 'bln', 'ppj', '+', '2k', '—', '✦', 'disney', '+', '��', '20k', '/', 'bln', '��', '30k', '/', '3', 'bln', '—', '✦', 'canva', 'pro', '��', '8k', '/', 'bln', '��', '20k', '/', 'thn', 'ppj', '+', '2k', '��Legal', ',', 'Trusted,Bergaransi��']
+66
+['O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'I-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+66
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'B-PROD', 'I-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD']
+62
+
+['FESS', 'Mau', 'ngucapin', 'makasih', 'banyak', 'ke', 'warga', 'fudfess', 'yang', 'supportif', 'dan', 'good', 'vibes', 'banget', '.', 'Hari', 'ini', 'aku', 'jualan', 'hampers', 'es', 'cendol', 'lagi', '.', '��', 'Doakan', 'laris', 'ya', 'guys', ',', 'yang', 'dom', 'Jogja', 'bisa', 'pesen', 'ke', 'aku', '.', 'Murah', 'banget', 'ni', 'buat', 'hantaran', 'ke', 'teman', '&', 'amp', 'keluarga', '.', '��✨', 'https://t.co/be4CtTL6zo']
+51
+['B-PER', 'O', 'O', 'O', 'O', 'O', 'B-ORG', 'I-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+51
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+50
+
+['@b3ajalah', '@HumasPaskot11', '@BPrima777', '@Polsekbojongs11', '@Lundayee', '@humilisclub', '@F_TheDoctor', '@AbidinBoryta', '@tnmuda', '@abbynfam123', '@Even1508', '@Davinpu1', '@lejef', '@gorengan_27', '@27Gix', '_', '@WaraslahNKRI', '@Nadjib_178', '@Aalembur', '@boy_siganteng', '@BinsarNixon', '_', '@pengarang_sajak', '@joentakriver', '@BaraTerpendam', 'Mudik', 'bawa', 'oleh', 'oleh', 'covid', '19��', 'terimakasih', 'neng', 'cantik', '@b3ajalah', '��������', 'https://t.co/bLoNYTMvqt']
+37
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O']
+37
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+36
+
+['@ShopeeID', 'Bismillah', 'H-1', 'Pengumuman', ',', 'mantul', 'banget', 'stok', 'give', 'away', 'shopee', 'masih', 'banyak', 'nih', 'sampai', 'ga', 'kehitung', '����', 'Shopee', '#ShopeeRamadanSale', '#SelaluBelanjadiShopee', '#THRDariShopee']
+22
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O']
+22
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O']
+21
+
+['@ShopeeID', 'Bismillah', 'semoga', 'rejeki', 'aku', 'kali', 'ini��✨', 'SHOPEE', '#ShopeeRamadanSale', '#SelaluBelanjadiShopee', '#THRDariShopee', '��']
+12
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O']
+12
+['O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'B-PROD', 'O', 'O', 'O']
+11
+
+['@irvanefendi_Yk', '@Faisalkan0123', '@yaelahokejuga', 'DI', 'UJUNG', 'TUGU', 'JOGJA', 'paham', 'gak', 'lo', 'irpan', '��', 'gue', 'tabok', 'nih']
+15
+['O', 'O', 'O', 'O', 'O', 'B-LOC', 'I-LOC', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O']
+15
+['O', 'O', 'O', 'O', 'O', 'O', 'I-PER', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O']
+14
+
+['@youdngjae', 'haii', 'aktivasi', 'ke', '@flxshlghts', 'yuk������', 'SPOTIFY', '��famplan', '1', 'bulan', '12k', '2', 'bulan', '17k', '3', 'bulan', '20k', '4', 'bulan', '23k', 'ppj+2k', '✅', 'fullgaransi', '✅', 'fast', 'proses', 'dm', '@flxshlghts', 'to', 'order!♡', 'https://t.co/cvJmnv0hH5', '"', '@youdngjae', 'haii', 'aktivasi', 'ke', '@flxshlghts', 'yuk������', 'SPOTIFY', '��famplan', '1', 'bulan', '12k', '2', 'bulan', '17k', '3', 'bulan', '20k', '4', 'bulan', '23k', 'ppj+2k', '✅', 'fullgaransi', '✅', 'fast', 'proses', 'dm', '@flxshlghts', 'to', 'order!♡', 'https://t.co/cvJmnv0hH5', '"']
+64
+['O', 'O', 'O', 'O', 'B-PER', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+64
+['O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+60
+
+['EH', 'JADI', 'KEINGET', 'sebenernya', 'udh', 'ngejokiin', 'tugas', 'temenku', 'dari', 'smp', '��', 'Perkara', 'copas', 'pr', 'doang', 'trus', 'dibayar', '50k', 'ya', 'siapa', 'yang', 'kaga', 'mau', '.', 'Dia', 'untung', 'ga', 'masuk', 'bk', 'aku', 'untung', 'bisa', 'beli', 'mcd']
+34
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD']
+34
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+33
+
+['Kebersamaan', 'Panglima', 'TNI', 'Marsekal', 'Hadi', 'Tjahjanto', ',', 'S.I.P', ',', 'bersama', 'Kapolri', 'Jenderal', 'Polisi', 'Drs', '.', 'Listyo', 'Sigit', 'Prabowo', ',', 'https://t.co/4DihjLGINW', ',', 'Menteri', 'Pertahanan', 'Prabowo', 'Subianto', 'dan', 'pimpinan', 'TNI', 'lainnya', 'di', 'Hanggar', '2', 'Bandara', 'Juanda', 'Surabaya', ',', 'Kamis', '(29/4).', 'https://t.co/M16I53XcOO', '"', 'Kebersamaan', 'Panglima', 'TNI', 'Marsekal', 'Hadi', 'Tjahjanto', ',', 'S.I.P', ',', 'bersama', 'Kapolri', 'Jenderal', 'Polisi', 'Drs', '.', 'Listyo', 'Sigit', 'Prabowo', ',', 'https://t.co/4DihjLGINW', ',', 'Menteri', 'Pertahanan', 'Prabowo', 'Subianto', 'dan', 'pimpinan', 'TNI', 'lainnya', 'di', 'Hanggar', '2', 'Bandara', 'Juanda', 'Surabaya', ',', 'Kamis', '(29/4).', 'https://t.co/M16I53XcOO', '"']
+80
+['O', 'O', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'I-PER', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'I-LOC', 'I-LOC', 'I-LOC', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'I-PER', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'B-ORG', 'O', 'O', 'B-LOC', 'I-LOC', 'I-LOC', 'I-LOC', 'I-LOC', 'O', 'O', 'O', 'O', 'O']
+80
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'I-PER', 'O', 'O', 'O', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'I-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'I-PER', 'O', 'O', 'O', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+79
+
+['@peachisxxz', 'Halo', 'kak', 'izin', 'nitip', 'ya', 'buat', 'yang', 'suka', 'NCTzen', 'boleh', 'minta', 'tolong', 'isi', 'kuesioner', 'penelitian', 'tugas', 'skripsi', 'aku', '?', 'Terima', 'kasih', '����', 'https://t.co/4QkyybpTnW']
+24
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+24
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+23
+
+['@vitkasav', '@tokopedia', 'Jangan', 'lupa', 'cek', 'Tokopedia', 'PLAY', 'dan', 'nikmatin', 'konten', '-', 'konten', 'menarik', 'lainnya', '����', '#JumatUntung', '#Cuma20Ribu']
+17
+['O', 'O', 'O', 'O', 'O', 'B-PROD', 'I-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+17
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+16
+
+['@zhuangwin', 'Hadir', 'kak��', 'Yang', 'dicari', 'ada', 'di', '@xibobaw', 'nih', 'hyukk', 'buruan', 'order', 'atau', 'tanya2', 'dulu', 'juga', 'boleh', '����', '��', 'Legal', '��', 'Aman', '��', 'Bergaransi', '��', 'Fast', 'respon', 'dan', 'fast', 'proses', '��', 'Gak', 'galak', 'jual', 'netflix', 'spotify', 'canva', 'viu', 'youtube', 'picsart', 'Getcontact', 'https://t.co/WgK5J08iYu', 'https://t.co/f5gvNcMJ1K']
+43
+['B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'O', 'O']
+43
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'O', 'O', 'O']
+37
+
+['@alifahazian', '��', 'senanya', 'syukur', 'ats', 'rezeki', 'kerja', 'walaupun', 'gaji', 'tak', 'seberapa', 'kak', 'alifah', 'pun', 'dah', 'kerja']
+16
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O']
+16
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O']
+15
+
+['@tokopedia', '��', 'Bismillah', 'HP', 'Baru', '��', 'SELALU', 'ADA', 'SELALU', 'BISA', '#RamadanDiTokopedia', '��']
+12
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+12
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+9
+
+['@basetoko', 'haii', 'aku', 'jual', 'apps', 'premium', 'murah', '��', 'netflix', '30k', '/', 'bulan', '��', 'spotify', '15k', '/', 'bulan', '��', 'youtube', '11k', '/', 'bulan', '��', 'viu', '12k', '/', 'bulan', 'masih', 'banyak', 'lagi', 'yuk', 'boleh', 'tanya', 'dulu', '��', 'BCA', ',', 'DANA', ',', 'OVO', 'testimoni', '➡️', '#.testiyundipie', '100%', 'TRUSTED', ',', 'LEGAL', 'dan', 'BERGARANSI', '��dm', 'for', 'order', 'https://t.co/MrY7ZF61NM']
+53
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+53
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'I-PROD', 'B-PROD', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'O']
+48
+
+['Bajunya', 'Anggi', 'lucu', '��', '#ngabuburit', 'https://t.co/PpJrRgOoSt']
+6
+['O', 'B-PER', 'O', 'O', 'O', 'O']
+6
+['O', 'O', 'O', 'O', 'O']
+5
+
+['Semua', 'yang', 'masih', 'menerima', 'gaji', 'adalah', 'buruh', ',', 'termasuk', 'presiden', '.', 'Jangan', 'ingkar', 'kelas', '!', '������', '#IngMaydayMangunKarso', '#MayDay']
+18
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+18
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+17
+
+['@KKMPutrajaya', 'Maaf', 'tumpang', 'iklan', ',', 'saya', 'ada', 'buat', 'kelas', 'mengaji', 'online', 'siapa', 'nak', 'join', 'boleh', 'tekan', 'link', 'ni', 'untuk', 'daftar', '.', '��', 'Wasap', 'Nak', 'Ngaji', 'Online', '⬇️⬇️', 'https://t.co/Ap17XlRvwo', 'https://t.co/Ap17XlRvwo', 'https://t.co/Ap17XlRvwo', '20', 'https://t.co/QiukcuXgro']
+32
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+32
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+31
+
+['RT', '@glenpijit', ':', 'PIJAT', 'KHUSUS', 'WANITA', '&', 'amp', 'PASUTRI', 'PANGGILAN', 'APARTMENT', '&', 'amp', 'HOTEL����AREA��#jakarta', '#jakartaselatan', '��MENU', 'MASSAGE', '⤵', '#pijatyoni', '#pijattantra', '#pijatsensual', '#pijitwanita', '⌚24', 'jam', 'Reddy', '@glenp1j1jkt', '��Mohon', 'Sebelum', 'Boking', 'Reservasi', 'Dulu', '��', 'Call', 'me', ':', '08994475466', 'Terapis', 'Prai', 'M30', 'https://t.co/YL86UDp3Q2']
+40
+['O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+40
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+39
+
+['@baejinyeog', '@tubirfess', '��OPEN', 'JOKI', 'TUGAS', 'YAA��', '▶Makalah', ',', 'PPT', ',', 'soal', ',', 'essay', ',', 'rangkuman', ',', 'resume', ',', 'dll', '▶Desain', ':', 'CV', ',', 'Poster', ',', 'Banner', ',', 'dll', '▶Akuntansi', ',', 'ekonomi', ',', 'pajak', ',', 'hukum', ',', 'statistik', ',', 'komunikasi', ',', 'manajemen', ',', 'pertanian', ',', 'sosiologi', ',', 'psikologi', ',', 'dll', 'Detail', '&', 'amp', 'testi', 'di', 'link', 'dibawah', '��', 'https://t.co/hbiXCtkXrW', '"', '@baejinyeog', '@tubirfess', '��OPEN', 'JOKI', 'TUGAS', 'YAA��', '▶Makalah', ',', 'PPT', ',', 'soal', ',', 'essay', ',', 'rangkuman', ',', 'resume', ',', 'dll', '▶Desain', ':', 'CV', ',', 'Poster', ',', 'Banner', ',', 'dll', '▶Akuntansi', ',', 'ekonomi', ',', 'pajak', ',', 'hukum', ',', 'statistik', ',', 'komunikasi', ',', 'manajemen', ',', 'pertanian', ',', 'sosiologi', ',', 'psikologi', ',', 'dll', 'Detail', '&', 'amp', 'testi', 'di', 'link', 'dibawah', '��', 'https://t.co/hbiXCtkXrW', '"']
+118
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+118
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+97
+
+['@ShopeeID', 'Semoga', 'beruntung', ',', 'rezeki', ',', 'menang', '����������', 'Beli', 'gula', 'dan', 'tepung', 'pati', 'Beli', 'di', 'Pasar', 'Dangung-Dandung', 'Mimin', 'shopee', 'yang', 'baik', 'hati', 'Menangkan', 'aku', 'handphone', 'Samsung', '#KejutanWeekendAsik', '#HadiahJumatBerkah', '#PuncakRamadanSale', '��⭐']
+30
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O']
+30
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'I-LOC', 'O', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O']
+29
+
+['@tokopedia', 'SELALU', 'ADA', 'SELALU', 'BISA', '��', '#RamadhanDiTokopedia']
+7
+['O', 'O', 'O', 'O', 'O', 'O', 'O']
+7
+['O', 'O', 'O', 'O', 'O', 'O']
+6
+
+['@ShopeeID', 'Semoga', 'beruntung', ',', 'rezeki', ',', 'menang', '����������', 'Beli', 'gula', 'dan', 'tepung', 'pati', 'Beli', 'di', 'Pasar', 'Dangung-Dandung', 'Mimin', 'shopee', 'yang', 'baik', 'hati', 'Menangkan', 'aku', 'handphone', 'Samsung', '#KejutanWeekendAsik', '#HadiahJumatBerkah', '#PuncakRamadanSale', '��⭐']
+30
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'I-LOC', 'B-PER', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O']
+30
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'I-LOC', 'O', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O']
+29
+
+['@ShopeeID', 'Semoga', 'beruntung', ',', 'rezeki', ',', 'menang', '����������', 'Beli', 'gula', 'dan', 'tepung', 'pati', 'Beli', 'di', 'Pasar', 'Dangung-Dandung', 'Mimin', 'shopee', 'yang', 'baik', 'hati', 'Menangkan', 'aku', 'handphone', 'Samsung', '#KejutanWeekendAsik', '#HadiahJumatBerkah', '#PuncakRamadanSale', '��⭐']
+30
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'I-LOC', 'B-PER', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O']
+30
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'I-LOC', 'O', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O']
+29
+
+['@bdngfess', 'Tahhhh', 'parfum', '��', 'https://t.co/Vl8Rqws2o0']
+5
+['O', 'O', 'O', 'O', 'O']
+5
+['O', 'O', 'O', 'O']
+4
+
+['@ShopeeID', 'Semoga', 'beruntung', ',', 'rezeki', ',', 'menang', '����������', 'Beli', 'gula', 'dan', 'tepung', 'pati', 'Beli', 'di', 'Pasar', 'Dangung-Dandung', 'Mimin', 'shopee', 'yang', 'baik', 'hati', 'Menangkan', 'aku', 'handphone', 'Samsung', '#KejutanWeekendAsik', '#HadiahJumatBerkah', '#PuncakRamadanSale', '��⭐']
+30
+['B-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'I-LOC', 'O', 'B-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'B-EV', 'O']
+30
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'I-LOC', 'O', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O']
+29
+
+['ADA', 'GEMPA', '?', 'DIMANA', '?', '������', '-', 'Stay', 'safe', 'yaaaa']
+10
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+10
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+9
+
+['RT', '@ProfsRosetta', ':', '����������', '����������', '������', '������', '��������', 'Terdengar', 'suara', 'berisik', 'khas', 'Estrella', 'dari', 'lorong', 'di', 'depan', 'kelas', 'bernomor', '1E', '.', 'Tak', 'lama', 'terdengar', 'suara', 'penuh', 'semangat', 'menyapa', 'setiap', 'orang', 'yang', 'berada', 'di', 'dalam', 'ruangan', 'tersebut', ',', '"', '"Selamat', 'siang', ',', 'penyihir', 'manis', '!', 'Mana', 'suaranya', 'nih?""']
+47
+['O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+47
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+42
+
+['@kookiegntg', '@tokopedia', 'SELALU', 'ADA', 'SELALU', 'BISA', '#RamadanDiTokopedia', 'SELALU', 'ADA', 'SELALU', 'BISA', '#RamadanDiTokopedia', 'SELALU', 'ADA', 'SELALU', 'BISA', '#RamadanDiTokopedia', 'SELALU', 'ADA', 'SELALU', 'BISA', '#RamadanDiTokopedia', '��������']
+23
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+23
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+22
+
+['@OPPOIndonesia', '✍Butuh', 'memori', 'besar', '128GB', 'di', 'OPPO', 'A54', 'buat', 'simpan', 'file-file', 'tugas', 'kuliah', 'dan', 'testimoni', 'online', 'shop', '-', 'ku', '��Semoga', 'oppo', 'A54', 'bisa', 'menunjang', 'penghasilan', 'keluargaku', '��', '@OPPOIndonesia', '@nisa_rkt', '@Bebheey', '@kus_ica', '@Erna19', '_', '@Saftriyuni', '#OPPOA54', '��']
+36
+['O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'I-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'I-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+36
+['O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'I-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'I-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+34
+
+['@kuukpii', '@tokopedia', 'Semoga', 'menang', 'Giveaway', 'Tokopedia', ',', 'Aamiin', 'TOKOPEDIA', 'PLAY', '������', '#JumatUntung', '#Cuma20Ribu']
+13
+['O', 'O', 'O', 'O', 'B-EV', 'I-EV', 'O', 'O', 'B-PROD', 'I-PROD', 'O', 'O', 'O']
+13
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+12
+
+['@seblaktulangcta', '��', 'READY', 'YOUTUBE', 'PROMO', '��', '1', 'bulan', '8K', '2', 'bulan', '12k', '3', 'bulan', '16k', '4', 'bulan', '20k', 'Trusted', '✔', 'Bergaransi', '✔', 'Testi', 'on', 'bio', '!', '✔', '��', 'DANA', ',', 'OVO', ',', 'GOPAY', ',', 'SHOPEEPAY', ',', 'TSEL']
+37
+['O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD']
+37
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+34
+
+['@laurakhl', 'Done', 'kak', '.', 'Wish', 'me', 'luck', 'Kasih', 'aku', 'kak', ',', 'buat', 'nabung', 'digital', 'trejo', '��', 'https://t.co/XomGz7Yb7a']
+17
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+17
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'B-PROD', 'O']
+16
+
+['@ShopeeID', 'Bismillah', 'rezeki', 'ku', 'aamiin', '��', 'Shopee', 'Ramadan', '#ShopeeRamadanTVSHOW', '#IkatanCintadiShopee', '#ShopeeSayangAlAndin', 'Shopee', 'Ramadan', '#ShopeeRamadanTVSHOW', '#IkatanCintadiShopee', '#ShopeeSayangAlAndin', 'Shopee', 'Ramadan', '#ShopeeRamadanTVSHOW', '#IkatanCintadiShopee', '#ShopeeSayangAlAndin']
+21
+['O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O']
+21
+['O', 'O', 'O', 'O', 'O', 'B-PROD', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O']
+20
+
+['@freakihooman', 'kiwii', 'izin', 'nitip', 'ya', 'kak', '������', 'kiwii', 'jual', 'apps', 'premium', 'murah', '��', 'viu', '13k/3bulan', '��', 'spotify', '10k', '/', 'bulan', '��', 'youtube', '10k', '/', 'bulan', '��', 'iflix', '10k', '/', 'bulan', '��', 'wetv', '10k', '/', 'bulan', '��', 'Netflix', 'sharing', '3bln', '70k', '1OO', '%', 'trusted', ',', 'legal', 'dan', 'bergaransi', '^^', '��dm', 'for', 'order', 'https://t.co/JhYKfkpOux']
+52
+['O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+52
+['O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'I-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+45
+
+['@Seobielll', 'Berarti', 'gw', 'lumayan', 'juga', 'ya', '��������', 'Tapi', 'kalau', 'inget', 'jurnal', 'ttp', 'sakit', 'hati', 'SEMANGAT', 'PARA', 'JUANG', 'KULIAH']
+18
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+18
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'I-PER']
+17
+
+['RT', '@Andracadabra1', ':', 'Gubernur', 'Jawa', 'Tengah', 'Ganjar', 'Pranowo', 'menegaskan', ',', 'pihaknya', 'melarang', 'mudik', 'untuk', 'wilayah', 'aglomerasi', 'di', 'Jawa', 'Tengah', '.', 'Mantap', 'Mr', 'White', '����', '@kemendagri', 'https://t.co/tEh8ZfYXRn']
+26
+['O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'I-LOC', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'O']
+26
+['O', 'O', 'O', 'O', 'O', 'O', 'I-PER', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'I-LOC', 'O', 'O', 'O', 'O', 'O', 'O']
+25
+
+['Baru', 'kali', 'ini', 'ak', 'nyuci', 'topi', 'di', 'toilet', 'mall', 'gegara', 'topi', 'dan', 'celana', 'ketumpahan', 'minuman', ',', 'malu', 'bgt', 'bikin', 'boros', 'juga', 'jadi', 'beli', 'celana', '��', 'https://t.co/fCHAzvUCgZ', '"', 'Baru', 'kali', 'ini', 'ak', 'nyuci', 'topi', 'di', 'toilet', 'mall', 'gegara', 'topi', 'dan', 'celana', 'ketumpahan', 'minuman', ',', 'malu', 'bgt', 'bikin', 'boros', 'juga', 'jadi', 'beli', 'celana', '��', 'https://t.co/fCHAzvUCgZ', '"']
+54
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+54
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+52
+
+['@lariesmanis', 'hai', 'aku', 'jual', 'loh', ',', 'testi', 'ada', 'di', 'pinned��', '��APLIKASI', 'PREMIUM��', '��', 'Netflix', '��', 'Spotify', '��', 'Viu', '��', 'Iflix', '��', 'Disney', '+', 'Hotstar', '��', 'Youtube', '��', 'WeTv', 'dll', '.', '1.', 'LEGAL', '2.', 'ANTI', 'HOLD', '3.', 'FULL', 'BERGARANSI', '��PAYMENT', ':', 'DANA', ',', 'GOPAY', ',', 'SHOPEEPAY', ',', 'OVO', ',', 'QRIS', '✉️', 'HUB', ':', 'WA', 'DI', 'BIO', '&', 'amp', 'DM', 'https://t.co/J1I6gjgcNx', '"', '@lariesmanis', 'hai', 'aku', 'jual', 'loh', ',', 'testi', 'ada', 'di', 'pinned��', '��APLIKASI', 'PREMIUM��', '��', 'Netflix', '��', 'Spotify', '��', 'Viu', '��', 'Iflix', '��', 'Disney', '+', 'Hotstar', '��', 'Youtube', '��', 'WeTv', 'dll', '.', '1.', 'LEGAL', '2.', 'ANTI', 'HOLD', '3.', 'FULL', 'BERGARANSI', '��PAYMENT', ':', 'DANA', ',', 'GOPAY', ',', 'SHOPEEPAY', ',', 'OVO', ',', 'QRIS', '✉️', 'HUB', ':', 'WA', 'DI', 'BIO', '&', 'amp', 'DM', 'https://t.co/J1I6gjgcNx', '"']
+120
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'I-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'I-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+120 
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+100
+
+['cm', 'klean', 'pernah', 'tidak', 'ujian', 'malem', 'malem', '?', '����', 'https://t.co/gnkDgvwxpu']
+10
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+10
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+9
+
+['@ameliandanii', '1.', 'kedinginan', 'naek', 'motor', 'dr', 'klaten', '-', 'jogja', '.', 'Jaketnya', 'dilepas', 'buat', 'doublein', 'jaketku', '2.', 'Cuma', 'sakit', 'flu', ',', 'dr', 'rumahnya', 'yg', 'jauh', 'kerumahku', 'bawa', 'makanan', '3.', 'Janjian', 'sm', 'temen', 'buat', 'ambil', 'brang', 'di', 'rumah', 'temen', ',', 'pdhl', 'sendiri', 'bisa', 'tp', 'maksa', 'buat', 'anterin', 'karena', 'rumah', 'temen', 'jauh', 'bgt', 'simple', 'but��', '"', '@ameliandanii', '1.', 'kedinginan', 'naek', 'motor', 'dr', 'klaten', '-', 'jogja', '.', 'Jaketnya', 'dilepas', 'buat', 'doublein', 'jaketku', '2.', 'Cuma', 'sakit', 'flu', ',', 'dr', 'rumahnya', 'yg', 'jauh', 'kerumahku', 'bawa', 'makanan', '3.', 'Janjian', 'sm', 'temen', 'buat', 'ambil', 'brang', 'di', 'rumah', 'temen', ',', 'pdhl', 'sendiri', 'bisa', 'tp', 'maksa', 'buat', 'anterin', 'karena', 'rumah', 'temen', 'jauh', 'bgt', 'simple', 'but��', '"']
+106
+['O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+106
+['O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+94
+
+['RT', '@ShopeeID', ':', 'Sobat', 'Shopee', '!', 'HARI', 'INI', 'di', '#ShopeeBigRamadanSale', 'ada', 'Elektronik', 'Day', '!', 'Dapatkan', 'DISKON', 'hingga', '90%!', 'Bukan', 'hanya', 'itu', ',', 'kamu', 'juga', 'bisa', 'nikmati', 'promo', 'menarik', 'lainnya', 'mulai', 'dari', 'Goyang', 'Berkah', '10M', ',', 'Murah', 'Lebay', ',', 'hingga', 'COD', 'Gratis', 'Ongkir', 'Rp0', '��', 'Cek', 'di', 'sini����', 'https://t.co/gD1KvN1aeq', '#ShopeeID', 'https://t.co/g0bgUt9rrC']
+50
+['O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-EV', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+50
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+49
+
+['@ShopeeID', 'Ya', 'allah', 'semoga', 'rejekiku', 'kali', 'ini', 'aamiin', '����', 'Shopee', 'Ramadhan', '#ShopeeRamadanTVSHOW', '#IkatanCintadiShopee', '#ShopeeSayangAlAndin', '57hgf']
+15
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O']
+15
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O']
+14
+
+['@ShopeeID', 'Bismillah', 'usaha', 'dan', 'doa', 'tanpa', 'henti', ',', 'siapa', 'tau', 'rejeki', 'aku', 'kali', 'ini��✨', 'SHOPEE', 'RAMADAN', '#ShopeeRamadanTVSHOW', '#IkatanCintadiShopee', '#ShopeeSayangAlAndin', 'SHOPEE', 'RAMADAN', '#ShopeeRamadanTVSHOW', '#IkatanCintadiShopee', '#ShopeeSayangAlAndin', '��']
+25
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O']
+25
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+24
+
+['Ketua', 'DPR', 'RI', 'puan', 'Maharani', 'menekankan', 'penanggulangan', 'pandemi', 'covid', '19', 'dan', 'dampak', 'harus', 'dilakukan', 'secara', 'konsisten', 'dengan', 'kesadaran', 'bersama', 'dan', 'regulasi', 'yang', 'tegas', '������', '��', 'Tetap', 'berdoa', '��', 'Yakin', 'Pandemi', 'ini', 'pasti', 'berlalu', '#LangkahBaikDemiNegeri', '��������', 'https://t.co/1p2GuuBoOE', '"', 'Ketua', 'DPR', 'RI', 'puan', 'Maharani', 'menekankan', 'penanggulangan', 'pandemi', 'covid', '19', 'dan', 'dampak', 'harus', 'dilakukan', 'secara', 'konsisten', 'dengan', 'kesadaran', 'bersama', 'dan', 'regulasi', 'yang', 'tegas', '������', '��', 'Tetap', 'berdoa', '��', 'Yakin', 'Pandemi', 'ini', 'pasti', 'berlalu', '#LangkahBaikDemiNegeri', '��������', 'https://t.co/1p2GuuBoOE', '"']
+74
+['O', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'B-EV', 'I-EV', 'I-EV', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'B-EV', 'I-EV', 'I-EV', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+74
+['O', 'O', 'I-PER', 'B-PER', 'I-PER', 'O', 'O', 'O', 'I-EV', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'I-PER', 'B-PER', 'I-PER', 'O', 'O', 'O', 'I-EV', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O']
+66
+
+['��������������', '������������', '╰•', '��', '@zolla_le', 'On', '3', 'Some', '╭•Wa', '08816632355', '╰•', '��', 'Jogja', '╭•��������', '������', '������', '��', 'Piknik⤵', '#jogja', '#JogjaBO', '#jogjaopenBO', '#jogjanakal', '#AvailJogja', '#availjogjakarta', '#bojogjakarta', '#readyjogja', '#readyjogjaOpen', 'https://t.co/0kNUcQulER']
+28
+['O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+28
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+21
+
+['@Lalalichuu', 'BELI', 'NETFLIX', 'SHARING', '42K', 'FREE', 'YOUTUBE', '/', 'VIU', 'PREMIUM..��', 'hai', 'ka', ',', 'yang', 'mau', 'beli', 'app', 'premium', 'di', 'aku', 'yuk', ',', 'dijamin', ':', '��', 'trusted', '��', 'full', 'garansi', '��', 'legal', '&', 'amp', 'murce', '��', 'ramah', '��', 'order', '?', 'dm', 'aku', '/', 'fastrespon', 'https://t.co/xjvpiugpKS', '��', 'payment', ':', 'ovo', '&', 'amp', 'dana', 'https://t.co/wzB30g6Zfz']
+52
+['O', 'O', 'B-PROD', 'I-PROD', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'I-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'B-PROD', 'O']
+52
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'B-PROD', 'O']
+46
+
+['@kuukpii', '@tokopedia', 'Semoga', 'menang', 'Giveaway', 'Tokopedia', ',', 'Aamiin', 'TOKOPEDIA', 'PLAY', '������', '#JumatUntung', '#Cuma20Ribu']
+13
+['O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'B-PROD', 'I-PROD', 'O', 'O', 'O']
+13
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+12
+
+['@ShopeeID', 'Shopee', 'Pilihanku', '��', '#ShopeeRamadanEkstraSale', '#HadiahLebaranDariShopee', '#KejutanTHRShopee']
+7
+['B-ORG', 'B-PROD', 'O', 'O', 'B-EV', 'O', 'O']
+7
+['O', 'B-PROD', 'B-PROD', 'O', 'O', 'O']
+6
+
+['@persisofficial', 'Yang', 'Ayam', '��', 'Sang', 'pisang', '��', 'Ternakopi', '☕', '-', 'Bismillah', 'dapat', 'THR']
+13
+['O', 'B-PROD', 'I-PROD', 'O', 'B-PROD', 'I-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O']
+13
+['O', 'O', 'O', 'O', 'O', 'B-ORG', 'I-PER', 'O', 'O', 'O', 'O']
+11
+
+['RT', '@helloitsmonde', ':', 'RALAT', '!', 'Tolong', 'bantu', 'aku', 'cari', 'penyintas', 'covid', 'utk', 'donor', 'plasma', 'konvaselen', 'buat', 'budeku', '��', '-', 'golongan', 'darah', 'AB', '-', 'cowok/cewek', '(', 'belum', 'pernah', 'hamil/melahirkan', ')', '-', 'telah', 'sembuh', 'dari', 'covid', 'min', '.', '14', 'hari', ',', 'max', '.', '3', 'bulan', '-', 'belum', 'vaksin', 'covid', '-', 'lokasi', 'Jakarta', 'CP', ':', '081290262767', 'https://t.co/Zq1SAjMu36']
+54
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O', 'O', 'O']
+54
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O']
+53
+
+['@txtfrombocil', '@txtdrkuliner', '��OPEN', 'JOKI', 'TUGAS', 'YAA��', '▶Makalah', ',', 'PPT', ',', 'soal', ',', 'essay', ',', 'rangkuman', ',', 'resume', ',', 'dll', '▶Desain', ':', 'CV', ',', 'Poster', ',', 'Banner', ',', 'dll', '▶Akuntansi', ',', 'ekonomi', ',', 'pajak', ',', 'hukum', ',', 'statistik', ',', 'komunikasi', ',', 'manajemen', ',', 'pertanian', ',', 'sosiologi', ',', 'psikologi', ',', 'dll', 'Detail', '&', 'amp', 'testi', 'di', 'link', 'dibawah', '��', 'https://t.co/hbiXCtkXrW']
+58
+['B-ORG', 'B-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+58
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+57
+
+['@tokopedia', 'Bismillah', 'semoga', 'rezekiku', 'kali', 'ini��', 'SELALU', 'ADA', 'SELALU', 'BISA', '#RamadanDiTokopedia', '#RamadanDiTokopedia', '#RamadanDiTokopedia', '������', 'SELALU', 'ADA', 'SELALU', 'BISA', '#RamadanDiTokopedia', '#RamadanDiTokopedia', '#RamadanDiTokopedia']
+21
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+21
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+20
+
+['@kuukpii', '@tokopedia', 'Semoga', 'menang', 'Giveaway', 'Tokopedia', ',', 'Aamiin', 'TOKOPEDIA', 'PLAY', '������', '#JumatUntung', '#Cuma20Ribu']
+13
+['O', 'O', 'O', 'O', 'B-EV', 'I-EV', 'O', 'O', 'B-PROD', 'I-PROD', 'O', 'O', 'O']
+13
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+12
+
+['@tokopedia', 'SELALU', 'ADA', 'SELALU', 'BISA', '#RamadanDiTokopedia', '��', '������', 'SELALU', 'ADA', 'SELALU', 'BISA', '#RamadanDiTokopedia', '��', '������', 'SELALU', 'ADA', 'SELALU', 'BISA', '#RamadanDiTokopedia', '��', '������', 'SELALU', 'ADA', 'SELALU', 'BISA', '#RamadanDiTokopedia', '��', '������', 'https://t.co/ilD9DpwVfc', '"', '@tokopedia', 'SELALU', 'ADA', 'SELALU', 'BISA', '#RamadanDiTokopedia', '��', '������', 'SELALU', 'ADA', 'SELALU', 'BISA', '#RamadanDiTokopedia', '��', '������', 'SELALU', 'ADA', 'SELALU', 'BISA', '#RamadanDiTokopedia', '��', '������', 'SELALU', 'ADA', 'SELALU', 'BISA', '#RamadanDiTokopedia', '��', '������', 'https://t.co/ilD9DpwVfc', '4728"']
+62
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+62
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+46
+
+['@ShopeeID', '@ShopeeID', '��', '@saguitars', 'yang', 'menang', '��', 'Shopee', 'Ramadan', '#ShopeeRamadanTVSHOW', '#IkatanCintadiShopee', '#ShopeeSayangAlAndin', 'Shopee', 'Ramadan', '#ShopeeRamadanTVSHOW', '#IkatanCintadiShopee', '#ShopeeSayangAlAndin', '��������������������������������������������������������������']
+18
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-EV', 'I-EV', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+18
+['O', 'O', 'O', 'O', 'O', 'B-PROD', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O']
+15
+
+['@ShopeeID', '��', 'Bismillah', 'rejeki', '��', 'Shopee', 'Pilihanku', '#ShopeeRamadanEkstraSale', '#HadiahLebaranDariShopee', '#KejutanTHRShopee', '&', 'gt;520']
+12
+['O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O']
+12
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+10
+
+['RT', '@Abah2Xi', ':', '@Santzjs', 'Suami', 'Joanna', 'Alexandra', ',', 'Raditya', 'Oloan', 'Meninggal', 'Dunia', 'Mendiang', 'telah', 'dinyatakan', 'negatif', 'Covid-19', 'pada', '30', 'April', '2021', 'setelah', 'melewati', 'tes', 'usap', 'atau', 'swab', 'test', 'PCR', '.', 'Namun', ',', 'keinginan', 'Raditya', 'Oloan', 'untuk', 'kembali', 'ke', 'rumah', 'dan', 'bersua', 'dengan', 'keluarga', 'tak', 'terwujud', '.', '��', 'https://t.co/eHkxLzP9sR']
+48
+['O', 'O', 'O', 'O', 'O', 'B-PER', 'I-PER', 'O', 'B-PER', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+48
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+47
+
+['Mantap', 'nih', 'Riau', '����', 'DKI', 'dan', 'lainnya', 'gimana', 'nih', '?', 'Udah', 'ikuti', 'arahan', 'pak', 'Menko', 'Airlangga', 'belum', '?', 'https://t.co/5nCT6Zl83E']
+19
+['O', 'O', 'B-ORG', 'O', 'B-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O']
+19
+['O', 'O', 'O', 'I-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'O']
+18
+
+['Wkwkwkw', 'thanks', 'dah', 'ngajakin', 'NR', 'muter', 'muter', 'jogja', '@popingboba1', '������', 'https://t.co/A9dY2h872P']
+11
+['O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'B-LOC', 'O', 'O', 'O']
+11
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-LOC', 'O', 'O']
+10
+
+['@ShopeeID', 'Bismillah', ',', 'kali', 'ini', 'bisa', 'Menangin', 'album', 'Enhypen', 'dari', 'Shopee', 'amiin', 'ya', 'allah', '������', '""MAU""', '#AlbumCarnivalDariShopee']
+17
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-WA', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O']
+17
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O']
+16
+
+['@ShopeeID', 'Hari', 'ke3', 'GIVEAWAY', 'Shopee', 'Hadiah', 'OPPO', 'RENO', '5', '��', 'BISMILLAH', '��', 'Shopee', 'Pilihanku', '#ShopeeRamadhanEkstraSale', '#HadiahLebaranDariShopee', '#KejutanTHRShopee', '❤', 'Ayo', 'Bisa', '❤']
+21
+['O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'I-PROD', 'I-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+21
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+19
+
+['@povcky', '✨Hallo', 'lagi', 'cari', 'Netflix', ',', 'YouTube', ',', 'Canva', ',', 'WeTV', ',', 'Lr', ',', 'Vsco', ',', 'Scribd', ',', 'Vidio', ',', 'Iflix', ',', 'Viu', ',', 'Iqiyi', ',', 'dll', '.', 'beli', 'di', '@Lunepremium', '_', 'ajaaaa', '��', 'Trusted', ',', '��️', 'bergaransi', '��', 'banyak', 'testi', 'ORDER', '?', 'DM', '@Lunepremium', '_', '/', 'WA', '��', 'BCA', ',', 'ovo', ',', 'dana', ',', 'spay', ',', 'gpay', ',', 'qris', 'https://t.co/Df4BpPumXy']
+61
+['O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O']
+61
+['O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O']
+58
+
+['@child_vamps', 'kamu', 'cari', 'aplikasi', 'premium', '?', 'adaa', 'nih!����', '@jajanpremium', '@jajanpremium', '@jajanpremium', '@jajanpremium', '‼️', 'semua', 'aplikasi', 'legal', '&', 'amp', 'bergaransi', '��', 'order', 'via', 'DM', 't', '.', 'jual', 'netflix', 'viu', 'spotify', 'wetv', 'canva', 'youtube', 'grammarly', 'scrib', 'iqiyi', 'hbo', 'go', 'murah', 'https://t.co/uILfJ0lpb1']
+39
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'I-PROD', 'O', 'O']
+39
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'B-PROD', 'O', 'O']
+38
+
+['@usaisudahhh', 'kiwii', 'izin', 'nitip', 'ya', 'kak', '������', 'kiwii', 'jual', 'apps', 'premium', 'murah', '��', 'viu', '13k', '/', '3bulan', '��', 'spotify', '10k', '/', 'bulan', '��', 'youtube', '10k', '/', 'bulan', '��', 'iflix', '10k', '/', 'bulan', '��', 'wetv', '10k', '/', 'bulan', 't', '.', 'netflix', ',', 'disney', ',', 'canva', '1OO', '%', 'trusted', ',', 'legal', 'dan', 'bergaransi', '^^', '��dm', 'for', 'order', 'https://t.co/JhYKfkpOux', '"', '@usaisudahhh', 'kiwii', 'izin', 'nitip', 'ya', 'kak', '������', 'kiwii', 'jual', 'apps', 'premium', 'murah', '��', 'viu', '13k', '/', '3bulan', '��', 'spotify', '10k', '/', 'bulan', '��', 'youtube', '10k', '/', 'bulan', '��', 'iflix', '10k', '/', 'bulan', '��', 'wetv', '10k', '/', 'bulan', 't', '.', 'netflix', ',', 'disney', ',', 'canva', '1OO', '%', 'trusted', ',', 'legal', 'dan', 'bergaransi', '^^', '��dm', 'for', 'order', 'https://t.co/JhYKfkpOux', '"']
+114
+['B-PER', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+114
+['O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O']
+72
+
+['@ShopeeID', 'Shopee', 'Pilihanku', '#ShopeeRamadhanEkstraSale', '#HadiahLebaranDariShopee', '#KejutanTHRShopee', 'Shopee', 'Pilihanku', '#ShopeeRamadhanEkstraSale', '#HadiahLebaranDariShopee', '#KejutanTHRShopee', 'Shopee', 'Pilihanku', '#ShopeeRamadhanEkstraSale', '#HadiahLebaranDariShopee', '#KejutanTHRShopee', '��']
+17
+['O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+17
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+16
+
+['RT', '@Ar01Pangeran', ':', 'POLLINGJelang', 'TARAWEH', '.', '.', 'Menurut', 'Ngana', ',', 'Siapa', 'GUBERNUR', 'yang', 'PANTAS', 'Mendapat', 'PIALA', 'dalam', 'Katagori', 'ini��', '.', '.', 'a', '.', 'Anies', '.', 'ReTweet', '��', 'b', '.', 'Ridwan', 'Kamil....Like❤️', 'c', '.', 'Ganjar', 'Pranowo..Komen', 'https://t.co/9blCNgp5g1']
+36
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'B-PER', 'I-PER', 'O']
+36
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+35
+
+['Hal', 'ini', ',', 'bisa', 'jadi', 'disebabkan', 'karena', 'publik', 'semakin', 'merespon', 'positif', 'kerja', 'Ketum', '@golkar_id', 'dan', 'seluruh', 'kader', '@golkar_id', 'dalam', 'penanganan', 'Covid-19', '#AirlanggaKerjaNyata', '#Airlangga2024', '@meutya_hafid', '@fraksigolkar', '@airlangga_hrt', '@acehasan76', 'https://t.co/XC4Tjw6CvV', '"', 'Hal', 'ini', ',', 'bisa', 'jadi', 'disebabkan', 'karena', 'publik', 'semakin', 'merespon', 'positif', 'kerja', 'Ketum', '@golkar_id', 'dan', 'seluruh', 'kader', '@golkar_id', 'dalam', 'penanganan', 'Covid-19', '#AirlanggaKerjaNyata', '#Airlangga2024', '@meutya_hafid', '@fraksigolkar', '@airlangga_hrt', '@acehasan76', 'https://t.co/XC4Tjw6CvV', '"']
+58
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'O', 'B-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'I-PER', 'O', 'O', 'O', 'B-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+58
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ORG', 'O', 'O', 'O', 'O', 'B-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ORG', 'O', 'O', 'O', 'O', 'B-ORG', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+57
+
+['@henderywongies', 'aku', 'juga', 'gatau', 'soalnya', 'aku', 'pernah', '����', 'untung', 'udah', 'tobat', 'wkwk', 'tapi', 'seriusan', 'buat', 'orang', 'yang', 'kuper', 'dan', 'ansos', 'kaya', 'aku', ',', 'apalagi', 'ke', 'laki"', '"', 'emg', 'pacaran', 'online', 'tuh', 'gampang', 'bgt', 'gitu', 'terpengaruh', 'sama', 'ketikan', '.', 'aku', 'dulu', 'pacaran', 'onlen', 'sampe', '10', 'bulan']
+45
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+45
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+44
+
+['@ainunrozi', 'kiwii', 'izin', 'nitip', 'ya', 'kak', '������', 'kiwii', 'jual', 'apps', 'premium', 'murah', '��', 'viu', '13k', '/', '3bulan', '��', 'spotify', '10k', '/', 'bulan', '��', 'youtube', '10k', '/', 'bulan', '��', 'iflix', '10k', '/', 'bulan', '��', 'wetv', '10k', '/', 'bulan', 't', '.', 'netflix', ',', 'disney', ',', 'canva', '1OO', '%', 'trusted', ',', 'legal', 'dan', 'bergaransi', '^^', '��dm', 'for', 'order', 'https://t.co/BmLWTlox8s']
+56
+['O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'I-PROD', 'O', 'I-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+56
+['O', 'B-PER', 'O', 'O', 'O', 'O', 'B-PER', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+50
+
+['@ShopeeID', 'Bismillah', 'semoga', 'kali', 'ini', 'bisa', 'menang', 'GA', 'nya', '��', 'semangat', 'pejuang', 'GA', '��', 'Shopee', 'Pilihanku', '#ShopeeRamadanEkstraSale', '#HadiahLebaranDariShopee', '#KejutanTHRShopee', 'Shopee', 'Pilihanku', '#ShopeeRamadanEkstraSale', '#HadiahLebaranDariShopee', '#KejutanTHRShopee']
+24
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O', 'O']
+24
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-PROD', 'B-PROD', 'I-EV', 'O', 'O', 'O', 'O', 'B-PROD', 'O', 'O', 'O']
+22
+
