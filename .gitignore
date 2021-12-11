@@ -138,3 +138,4 @@ dmypy.json
 Model/NER_twitter_Valdi/rework_valdi.ipynb
 Model/NER_twitter_Valdi/ner/data/ner/data.json
 Model/NER_twitter_Valdi/ner/data/ner/data.json
+fasttext.4B.id.300.epoch5.uncased.bin
