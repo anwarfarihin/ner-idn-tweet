@@ -139,3 +139,13 @@ Model/NER_twitter_Valdi/rework_valdi.ipynb
 Model/NER_twitter_Valdi/ner/data/ner/data.json
 Model/NER_twitter_Valdi/ner/data/ner/data.json
 fasttext.4B.id.300.epoch5.uncased.bin
+Model/simpletransformers/7/checkpoint-2000/config.json
+Model/simpletransformers/7/checkpoint-2000/eval_results.txt
+Model/simpletransformers/7/checkpoint-2000/model_args.json
+Model/simpletransformers/7/checkpoint-2000/optimizer.pt
+Model/simpletransformers/7/checkpoint-2000/pytorch_model.bin
+Model/simpletransformers/7/checkpoint-2000/scheduler.pt
+Model/simpletransformers/7/checkpoint-2000/special_tokens_map.json
+Model/simpletransformers/7/checkpoint-2000/tokenizer_config.json
+Model/simpletransformers/7/checkpoint-2000/training_args.bin
+Model/simpletransformers/7/checkpoint-2000/vocab.txt
