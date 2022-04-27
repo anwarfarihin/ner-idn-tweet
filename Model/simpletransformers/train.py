@@ -8,12 +8,6 @@ import torch
 cuda_available = torch.cuda.is_available()
 
 from simpletransformers.ner import NERModel, NERArgs
-
-# from ner_eval import collect_named_entities
-# from ner_eval import compute_metrics
-# from ner_eval import compute_precision_recall_wrapper
-
-# from sklearn_crfsuite import metric
 from nervaluate import Evaluator
 
 # ==================================================================================
