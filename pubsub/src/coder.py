@@ -1,5 +1,6 @@
 import json
 
+
 class Message:
     data = None
     attributes = None
@@ -7,9 +8,10 @@ class Message:
     def __init__(self, data, attributes):
         self.data = data
         self.attributes = attributes
-    
+
     def __str__(self) -> str:
         return "data: {} attributes {}".format(self.data, self.attributes)
+
 
 class JsonCoder:
     def decode(self, message):

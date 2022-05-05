@@ -25,8 +25,8 @@ if __name__ == '__main__':
 
     project_id = args.project_id
     subscribtion_id = args.subscribtion_id
-
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "pubsub\src\pubsub.json"
+    # TODO add pubsub.json file to your local
+    # os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "pubsub\src\pubsub.json"
 
     sink = StdOutSink()
     proc = NERProcessor(sink=sink)
